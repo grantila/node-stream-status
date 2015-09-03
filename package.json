@@ -1,0 +1,29 @@
+{
+  "name": "stream-status",
+  "description": "Reports statistics about a stream as data is passing through it",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grantila/stream-status.git"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "keywords": [
+    "stream",
+    "status",
+    "report",
+    "count",
+    "analyze",
+    "end",
+    "finish"
+  ],
+  "dependencies": {
+    "through2": "^1.1.1"
+  },
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "mocha": "^2.2.4"
+  }
+}
