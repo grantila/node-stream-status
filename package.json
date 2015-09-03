@@ -1,7 +1,7 @@
 {
   "name": "stream-status",
   "description": "Reports statistics about a stream as data is passing through it",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "MIT",
   "repository": {
     "type": "git",
